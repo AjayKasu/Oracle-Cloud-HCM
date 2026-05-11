@@ -1,1 +1,72 @@
+										Oracle Cloud HCM - Core HR
+S.No.	Configuration Item	Task Name
+ Configurations	 
+1	Geographies:-	Manage Geographies
+2	Enterprise Structure:-	Establish Enterprise Structure
+3	Enterprise HCM Information:-	Manage Enterprise HCM Information
+4	Reference Data Sets:-	Manage Reference Data Sets
+5	Locations:-	Manage Locations
+6	Divisions:-	Manage Divisions
+7	Legal Address:-	Manage Legal Address
+8	Legal Entity:-	Manage Legal Entity
+9	Payroll Statutory Unit:-	Manage Legal Entity
+10	Legal Employers:-	Manage Legal Entity
+11	Legal Entity HCM Information:-	Manage Legal Entity HCM Information
+12	Actions:-	Manage Actions
+13	Action Reasons:-	Manage Action Reasons
+14	Lookups:-	Manage Lookups
+15	DFFs:-	Manage%Descrip%
+16	Business Units:-	Manage Business Unit
+17	Assign Set IDs for Business Units:-	Manage Business Unit Set Assignment
+18	Departments:-	Manage Departments
+19	Department Trees:-	Manage Department Trees
+20	Grades:-	Manage Grades
+21	Grade Rates:-	Manage Grade Rates
+22	Grade Ladder:-	Manage Grade Ladders
+23	Jobs:-	Manage Job
+24	Positions:-	Manage Positions
+25	Position Trees:-	Manage Position Trees
+26	Person Types:-	Manage Person Types
+27	Assignment Statuses:-	Manage Assignment Status
+28  Person Name Styles:- Manage Person name Styles
+===========================================================================================================================================================
+Transactions	
+ 	Hire an Employee	 
+ 	Transfer an Employee- Local & Gloabl Transfer
+ 	Promotion
+ 	Terminate
+  	Rehire
+	Approval Management- Automate routing task (transaction) first approver to final approver, Next Rejcet or Accept. 
+	SOA - 
+	Enterprise Scheduler Service (ESS) Jobs
+============================================================================================================================================================
+Implementation and HCM users, Roles
+Data Roles (RBAC)
+Security Profiles
+=============================================================================================================================================================
+Practical Configuration Setup As per the Allegis Group Client
+Group 1 - Profile Options Settings - Use profile options to manage user preferences and control the general function of applications. For example, you can control user preferences involving language, date, time, currency, and other similar general settings.
+Navigation:- Setup & Maintence>Advance Search> "Manage Profile Options" We have Two FSM - Redwood Functional Setup Manager (Latest UI -Redwood) & Application Develpment Framework (ADF) FSM (Classic UI)
+	Manage Profile Options
+	Administer profile Values
+	Autocomplete Keys
+	Set User General Preferences
+============================================================
+Group 2 - Enterprise Profile
+	Features by Country or Territory
+	Manage Geographies
+=============================================================
+Group 3 - Business Unit and Legal Structures
+	Manage Enterprise HCM
+	Manage Legislative Data Groups
+	Manage Business Units
+	Manage Address Formats
+	Manage Legal Address
+	Manage Legal Entity
+	Manage Reference Data Set
+	Manage Reporting Establishments
+	Manage Legal Entity HCM
+	Manage Assigment Status
+	Configure Seniority Dates
+	
 
